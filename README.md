@@ -71,6 +71,8 @@ To achieve the company’s objective and develop analytical tools to support bus
   * Around 3 M rows of raw data.
   * 21+ columns of data
   * This data is available publicly.
+  * NOTE: Due to file size limit/restrictions (25 mb) in GitHub.com, I had to delete some of data rows from this Excel data file (data sheet tab) before file upload. This data analytics dashbord's features and functionalities still work perfectly.
+     
 * Data Gathering – The Dataset (Microsoft Excel/ CSV File).
   * Data Sheet: All fatality data details given in a single workbook.
 * Data Cleaning
